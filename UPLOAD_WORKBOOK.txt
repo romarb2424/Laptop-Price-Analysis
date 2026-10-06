@@ -1,0 +1,5 @@
+Upload your final Excel workbook to this repository as:
+
+Laptop_Price_Analysis.xlsx
+
+The project documentation and source data are already included in this package.
